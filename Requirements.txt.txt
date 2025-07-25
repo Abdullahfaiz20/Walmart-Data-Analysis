@@ -1,0 +1,7 @@
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Statsmodels
+Pmdarima
+Jupyter Notebook
